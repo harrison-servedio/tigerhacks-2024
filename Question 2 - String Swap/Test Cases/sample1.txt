@@ -1,0 +1,7 @@
+Input:
+5 2
+Tiger
+2 3
+0 3
+Output:
+gieTr

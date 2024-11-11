@@ -1,0 +1,8 @@
+Input:
+wildlife
+3
+lion
+life
+wild
+Output:
+1 2
